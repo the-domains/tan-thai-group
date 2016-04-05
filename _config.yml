@@ -1,0 +1,28 @@
+name: Tan Thai Group
+favicon: null
+layout_spectrum: 0.8910206577274948
+typography_spectrum: 0.021939935628324747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5867918357253075
+  lightness: 0.5905365904327482
+  saturation: 0.4244632695335895
+  rhythmicContrast: 0.06331861717626452
+purpose: []
