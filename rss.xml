@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Restaurants | POS Solutions | Residential Properties]]></title>
+        <description><![CDATA[Restaurants | POS Solutions | Residential Properties]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 09:34:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a0989b8-2b20-4eb6-be63-968806ee0f3d.png">]]></description>
+            <link>undefinedc0aa2dd2-ac42-4492-bd61-1957a65ef7af/index.html</link>
+            <guid isPermaLink="false">c0aa2dd2-ac42-4492-bd61-1957a65ef7af</guid>
+            <pubDate>Tue, 05 Apr 2016 09:33:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
